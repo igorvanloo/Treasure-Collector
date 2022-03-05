@@ -1,5 +1,6 @@
 # Treasure Collector
 A simple platformer that I made to better learn Pygame.
+[image](https://github.com/igorvanloo/Treasure-Collector/blob/main/gameplay%20photo1.png)
 
 I learnt a lot from [ClearCode](https://www.youtube.com/c/ClearCode) tutorial and decided to really make it my own with a bunch of new features and game mechanics. 
 
